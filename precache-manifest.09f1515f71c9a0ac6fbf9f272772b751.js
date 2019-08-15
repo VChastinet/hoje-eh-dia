@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcb1f314abdc93ea323c5a2f921920e0",
+    "revision": "c40fd64d9f0672946b67c6745194df0d",
     "url": "/hoje-eh-dia/index.html"
   },
   {
-    "revision": "c1a3879f5635cf79a869",
-    "url": "/hoje-eh-dia/static/css/main.23a41e0f.chunk.css"
+    "revision": "005d09bdf20f7b600333",
+    "url": "/hoje-eh-dia/static/css/main.fdf0c496.chunk.css"
   },
   {
     "revision": "415ab3077d3d1b7468cc",
     "url": "/hoje-eh-dia/static/js/2.03a84cec.chunk.js"
   },
   {
-    "revision": "c1a3879f5635cf79a869",
-    "url": "/hoje-eh-dia/static/js/main.6ce0cad1.chunk.js"
+    "revision": "005d09bdf20f7b600333",
+    "url": "/hoje-eh-dia/static/js/main.5fb13486.chunk.js"
   },
   {
     "revision": "a070a081b21d35e50438",
